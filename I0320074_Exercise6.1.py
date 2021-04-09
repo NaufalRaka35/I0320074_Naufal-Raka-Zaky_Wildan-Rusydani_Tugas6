@@ -1,7 +1,7 @@
-#menentukan banyak pengulangan
+#menentukan banyaknya pengulangan
 n=5
 
-#melakukan pengulanga
+#melakukan pengulangan
 i = 1
 while i <= n:
     print(i)
